@@ -1,4 +1,4 @@
-sleep 300
+sleep 90
 t app button shutter PR
 d:\autoexec.ash
 reboot yes
